@@ -1,2 +1,3 @@
 # Tic_Tac_Toe
-just your average tic tac toe game 
+
+A Java implementation of Tic Tac Toe in the terminal
